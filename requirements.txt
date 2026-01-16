@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic-settings
+httpx
+jinja2
+python-dotenv
+python-multipart
